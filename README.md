@@ -1,6 +1,6 @@
 # Belajar Jest & Babel (Tutorial)
 
-Project ini dibuat untuk mengikuti tutorial di YouTube tentang **testing menggunakan Jest** dan **menggunakan Babel untuk transpile JavaScript ES6 ke versi lama**.
+Project ini dibuat untuk mengikuti tutorial di YouTube tentang **testing menggunakan Jest** dan **menggunakan Babel untuk transpile JavaScript module ke commonjs**.
 
 > 📚 Bukan project real / production — hanya untuk pembelajaran.
 
@@ -11,7 +11,7 @@ Project ini dibuat untuk mengikuti tutorial di YouTube tentang **testing menggun
 
 ## Tutorial yang diikuti
 
-[TUTORIAL NODEJS UNIT TEST (BAHASA INDONESIA) by Programmer Zaman Now]
+[Youtube: TUTORIAL NODEJS UNIT TEST (BAHASA INDONESIA) by Programmer Zaman Now]
 
 ## Struktur Project
 .
